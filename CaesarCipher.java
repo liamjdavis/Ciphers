@@ -33,7 +33,6 @@ public class CaesarCipher extends Cipher {
      * encryption/decryption.
      **/
     public CaesarCipher (long key) {
-
         super(key);
 
     } // CaesarCipher ()
